@@ -1,0 +1,37 @@
+
+h1
+{
+	font-size: 150%;
+	text-align: center;
+	margin: 0.5em 1em;
+}
+h2
+{
+	font-size: 125%;
+	margin: 0.5em 1em 0.25em 1em;
+}
+ul
+{
+	list-style-type: none;
+	margin: 0.25em 1em;
+}
+li
+{
+	text-indent: -1.25em;
+}
+
+.project
+{
+	float: left;
+	width: 48%;
+	margin: 0 1% 0 0;
+}
+.tasks
+{
+}
+.underline
+{
+	border-bottom: thin black solid;
+}
+
+.error { color: red; }
